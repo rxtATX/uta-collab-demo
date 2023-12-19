@@ -1,0 +1,11 @@
+* {
+    background-color: orange;
+    margin: 52px;
+    font-size: 32px;
+}
+
+header {
+    width:100%;
+    height:30px;
+    background-color:aqua;
+}
